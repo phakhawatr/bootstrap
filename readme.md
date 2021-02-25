@@ -4,4 +4,4 @@
 https://www.markdownguide.org/basic-syntax/
 
 # Link
-[ link_Google ](www.google)
+[ link_Google ](www.google.com)
